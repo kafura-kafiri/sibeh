@@ -4,3 +4,5 @@
 *.hgt
 !static/tiles/N35E051.hgt
 !static/tiles/N35E050.hgt
+*.pyo
+*.pyc
